@@ -5,7 +5,7 @@
 </div><br><br><br><br><br>
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
-200668_Sandra Aguilar Santos<br>
-Tarea 3:Cambios a Mi primer App en flutter.
-Descripción:Cambio de color y agregar una fuente externa<br>
+200668_Sandra Aguilar Santos <br> 
+Tarea 3:Cambios a Mi primer App en flutter. <br>
+Descripción:Cambio de color y agregar una fuente externa <br>
 Fecha entrega: 8 de septiembre del 2023
